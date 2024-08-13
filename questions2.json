@@ -1,0 +1,412 @@
+{
+    "heading": "Select a Topic",
+    "topics": [
+      {
+        "heading": "Synonyms",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "What word means the same as 'big'?",
+            "options": ["Small", "Large", "Tiny"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'Large' means the same as 'big' - they both describe something that is not small."
+          },
+          {
+            "questionNo": 2,
+            "question": "Which word means the same as 'happy'?",
+            "options": ["Sad", "Angry", "Glad"],
+            "answer": 2,
+            "image": "",
+            "explanation": "'Glad' means the same as 'happy' - they both describe feeling good or joyful."
+          },
+          {
+            "questionNo": 3,
+            "question": "What is another word for 'little'?",
+            "options": ["Huge", "Small", "Tall"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'Small' means the same as 'little' - they both describe something that is not big."
+          },
+          {
+            "questionNo": 4,
+            "question": "Which word means the same as 'fast'?",
+            "options": ["Quick", "Slow", "Lazy"],
+            "answer": 0,
+            "image": "",
+            "explanation": "'Quick' means the same as 'fast' - they both describe moving or doing something at high speed."
+          },
+          {
+            "questionNo": 5,
+            "question": "Which word means the same as 'start'?",
+            "options": ["Begin", "End", "Stop"],
+            "answer": 0,
+            "image": "",
+            "explanation": "'Begin' means the same as 'start' - they both describe starting or doing something first."
+          }
+        ]
+      },
+      {
+        "heading": "Bag of Words",
+        "questions": [
+          {
+            "questionNo": 6,
+            "question": "What does a doctor do?",
+            "options": ["Cooks food", "Helps sick people", "Grows plants"],
+            "answer": 1,
+            "image": "",
+            "explanation": "A doctor is someone who takes care of people when they are ill or hurt."
+          },
+          {
+            "questionNo": 7,
+            "question": "Who grows food on a farm?",
+            "options": ["Chef", "Police", "Farmer"],
+            "answer": 2,
+            "image": "",
+            "explanation": "A farmer is a person who works on a farm and grows crops or raises animals for food."
+          },
+          {
+            "questionNo": 8,
+            "question": "What does a chef do?",
+            "options": ["Cooks food", "Drives a car", "Teaches in school"],
+            "answer": 0,
+            "image": "",
+            "explanation": "A chef prepares and cooks meals, often in a restaurant."
+          },
+          {
+            "questionNo": 9,
+            "question": "What does the word 'bounce' mean?",
+            "options": ["To sleep", "To jump up and down", "To swim"],
+            "answer": 1,
+            "image": "",
+            "explanation": "When something bounces, it moves up and down, like a ball hitting the ground and going back up."
+          },
+          {
+            "questionNo": 10,
+            "question": "Who keeps people safe in a town?",
+            "options": ["Postman", "Farmer", "Police"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Police officers work to protect people and keep order in a community."
+          }
+        ]
+      },
+      {
+        "heading": "Nouns (Proper and Common)",
+        "questions": [
+          {
+            "questionNo": 11,
+            "question": "Which word is a proper noun?",
+            "options": ["dog", "cat", "Fluffy"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Fluffy is a proper noun because it's a specific name for a pet. Proper nouns always start with a capital letter."
+          },
+          {
+            "questionNo": 12,
+            "question": "Which word is a common noun?",
+            "options": ["Sarah", "girl", "London"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'Girl' is a common noun because it refers to any girl, not a specific one."
+          },
+          {
+            "questionNo": 13,
+            "question": "Which of these is a proper noun?",
+            "options": ["school", "teacher", "Monday"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Monday is a proper noun because it's the name of a specific day of the week."
+          },
+          {
+            "questionNo": 14,
+            "question": "Which word is a common noun?",
+            "options": ["park", "New York", "John"],
+            "answer": 0,
+            "image": "",
+            "explanation": "'Park' is a common noun because it can refer to any park, not a specific one."
+          },
+          {
+            "questionNo": 15,
+            "question": "Which word is a common noun?",
+            "options": ["book", "Harry Potter", "Easter"],
+            "answer": 0,
+            "image": "",
+            "explanation": "'Book' is a common noun because it can refer to any book, not a specific one."
+          }
+        ]
+      },
+      {
+        "heading": "Collective Noun",
+        "questions": [
+          {
+            "questionNo": 16,
+            "question": "What do we call a group of birds?",
+            "options": ["Pack", "Flock", "Swarm"],
+            "answer": 1,
+            "image": "",
+            "explanation": "A flock is a group of birds."
+          },
+          {
+            "questionNo": 17,
+            "question": "What is a group of players called?",
+            "options": ["Team", "Herd", "Colony"],
+            "answer": 0,
+            "image": "",
+            "explanation": "A team is a group of people who play a sport or work together."
+          },
+          {
+            "questionNo": 18,
+            "question": "What do we call a group of wolves?",
+            "options": ["Pride", "Flock", "Pack"],
+            "answer": 2,
+            "image": "",
+            "explanation": "A pack is a group of wolves."
+          },
+          {
+            "questionNo": 19,
+            "question": "What is a group of bees called?",
+            "options": ["Herd", "Swarm", "Team"],
+            "answer": 1,
+            "image": "",
+            "explanation": "A swarm is a large group of bees."
+          },
+          {
+            "questionNo": 20,
+            "question": "What is a group of ants called?",
+            "options": ["Flock", "Team", "Colony"],
+            "answer": 2,
+            "image": "",
+            "explanation": "A colony is a group of ants living together."
+          }
+        ]
+      },
+      {
+        "heading": "Gender Nouns",
+        "questions": [
+          {
+            "questionNo": 21,
+            "question": "What is a male chicken called?",
+            "options": ["Hen", "Chick", "Rooster"],
+            "answer": 2,
+            "image": "",
+            "explanation": "A male chicken is called a rooster, while a female chicken is called a hen."
+          },
+          {
+            "questionNo": 22,
+            "question": "What is a female horse called?",
+            "options": ["Mare", "Stallion", "Foal"],
+            "answer": 0,
+            "image": "",
+            "explanation": "A female horse is called a mare, while a male horse is called a stallion."
+          },
+          {
+            "questionNo": 23,
+            "question": "What is a female lion called?",
+            "options": ["Cub", "Lioness", "Lion"],
+            "answer": 1,
+            "image": "",
+            "explanation": "A female lion is called a lioness, while a male is simply called a lion."
+          },
+          {
+            "questionNo": 24,
+            "question": "What is a male goose called?",
+            "options": ["Gander", "Goose", "Gosling"],
+            "answer": 0,
+            "image": "",
+            "explanation": "A male goose is called a gander, while a female goose is simply called a goose."
+          },
+          {
+            "questionNo": 25,
+            "question": "What is a female fox called?",
+            "options": ["Fox", "Vixen", "Cub"],
+            "answer": 1,
+            "image": "",
+            "explanation": "A female fox is called a vixen, while a male fox is simply called a fox."
+          }
+        ]
+      },
+      {
+        "heading": "Sounds of Letters",
+        "questions": [
+          {
+            "questionNo": 26,
+            "question": "In the word 'snake', which letter sound do you hear at the start?",
+            "options": ["Sound of /s/", "Sound of /a/", "Sound of /k/"],
+            "sounds":["./assests/sounds/s-sound.mp3","./assests/sounds/a-sound.mp3","./assests/sounds/k-sound.mp3"],
+            "answer": 0,
+            "image": "",
+            "explanation": "The word snake starts with the /s/ sound and 's' is also the first letter of this word."
+          },
+          {
+            "questionNo": 27,
+            "question": "What's the first sound you hear in the word 'umbrella'?",
+            "options": ["/A/", "/E/", "/J/"],
+            "answer": 0,
+            "image": "",
+            "explanation": "Umbrella starts with the short 'a' sound, like 'uh'. The letter 'U' makes this sound at the beginning of the word."
+          },
+          {
+            "questionNo": 28,
+            "question": "Which animal's name starts with the same sound as 'fox'?",
+            "options": ["Elephant", "Giraffe", "Fish"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Both 'fox' and 'fish' start with the 'f' sound. When we say these words, our top teeth touch our bottom lip to make the 'fff' sound."
+          },
+          {
+            "questionNo": 29,
+            "question": "What letter makes the sound of a bee buzzing?",
+            "options": ["Z", "X", "Y"],
+            "answer": 0,
+            "image": "",
+            "explanation": "The letter 'Z' makes a buzzing sound, just like a bee! When we say words that start with 'Z', it sounds like 'zzz'."
+          },
+          {
+            "questionNo": 30,
+            "question": "Which word rhymes with 'cat' and starts with the 'h' sound?",
+            "options": ["Hot", "Hat", "Hit"],
+            "answer": 1,
+            "image": "",
+            "explanation": "Hat rhymes with 'cat' and starts with the 'h' sound. When we say 'hat', we breathe out to make the 'h' sound at the beginning."
+          }
+        ]
+      },
+      {
+        "heading": "Sound of 'w' and 'wh' Words with Rules",
+        "questions": [
+          {
+            "questionNo": 31,
+            "question": "______ is used in questions to ask somebody’s name. (Where / Who)",
+            "options": ["Where", "Who"],
+            "answer": 1,
+            "image": "",
+            "explanation": "This word helps us talk about people. It is used in questions to ask somebody’s name, identity, position, etc."
+          },
+          {
+            "questionNo": 32,
+            "question": "Which word is a question word?",
+            "options": ["Water", "Why", "Window", "Wave"],
+            "answer": 1,
+            "image": "",
+            "explanation": "Why is a question word that starts with 'Wh'."
+          },
+          {
+            "questionNo": 33,
+            "question": "Sound of the word: /While/. What sound does this word make?",
+            "options": ["W sound", "Wh sound"],
+            "answer": 1,
+            "image": "",
+            "explanation": "When we say 'while', we stress more on our breath. It happens with words like 'what' and 'when' also."
+          },
+          {
+            "questionNo": 34,
+            "question": "Which 'wh' word would you use to ask about a thing?",
+            "options": ["When", "What", "Who"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'What' is used to ask about a thing, like 'What is your favourite colour?'"
+          },
+          {
+            "questionNo": 35,
+            "question": "Which 'wh' word would you use to ask for a reason?",
+            "options": ["Why", "Where", "Who"],
+            "answer": 0,
+            "image": "",
+            "explanation": "'Why' is often used to ask for reason/explanations, like 'Why is it raining?'"
+          }
+        ]
+      },
+      {
+        "heading": "Rhyming Words",
+        "questions": [
+          {
+            "questionNo": 36,
+            "question": "What rhymes with 'moon'?",
+            "options": ["Sun", "Star", "Spoon"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Moon and spoon rhyme because they end with the same sound: '-oon'."
+          },
+          {
+            "questionNo": 37,
+            "question": "Which word rhymes with 'bed'?",
+            "options": ["Red", "Pillow", "Sleep"],
+            "answer": 0,
+            "image": "",
+            "explanation": "Bed and red rhyme because they end with the same sound: '-ed'."
+          },
+          {
+            "questionNo": 38,
+            "question": "What rhymes with 'car'?",
+            "options": ["Bike", "Star", "Truck"],
+            "answer": 1,
+            "image": "",
+            "explanation": "Car and star rhyme because they end with the same sound: '-ar'."
+          },
+          {
+            "questionNo": 39,
+            "question": "Which word rhymes with 'tree'?",
+            "options": ["Leaf", "Branch", "Bee"],
+            "answer": 2,
+            "image": "",
+            "explanation": "Tree and bee rhyme because they end with the same sound: '-ee'."
+          },
+          {
+            "questionNo": 40,
+            "question": "What rhymes with 'ball'?",
+            "options": ["Tall", "Round", "Throw"],
+            "answer": 0,
+            "image": "",
+            "explanation": "Ball and tall rhyme because they end with the same sound: '-all'."
+          }
+        ]
+      },
+      {
+        "heading": "Singular and Plural",
+        "questions": [
+          {
+            "questionNo": 41,
+            "question": "What is the plural of 'cat'?",
+            "options": ["Catss", "Cats", "Cates"],
+            "answer": 1,
+            "image": "",
+            "explanation": "To make most singular nouns plural, we add an 's' at the end."
+          },
+          {
+            "questionNo": 42,
+            "question": "Which is the singular form of 'boxes'?",
+            "options": ["Boxe", "Boxes", "Box"],
+            "answer": 2,
+            "image": "",
+            "explanation": "The singular form is without the 'es' at the end."
+          },
+          {
+            "questionNo": 43,
+            "question": "What is the plural of 'child'?",
+            "options": ["Childs", "Children", "Childes"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'Child' is a special word that changes to 'children' in plural form."
+          },
+          {
+            "questionNo": 44,
+            "question": "What is the plural of 'tooth'?",
+            "options": ["Tooths", "Teeths", "Teeth"],
+            "answer": 2,
+            "image": "",
+            "explanation": "'Tooth' is a special word that changes to 'teeth' in plural form."
+          },
+          {
+            "questionNo": 45,
+            "question": "What is the singular form of 'feet'?",
+            "options": ["Leg", "Foot", "Foots"],
+            "answer": 1,
+            "image": "",
+            "explanation": "'Foot' is a special word that changes to 'feet' in plural form."
+          }
+        ]
+      }
+    ]
+  }
+  
